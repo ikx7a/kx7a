@@ -1,1 +1,1 @@
-
+<img src="https://github.com/ikx7a/kx7a/blob/main/assets/Kx7a.jpg" align="left" width="140px" height="auto"/> <img src="https://github.com/ikx7a/kx7a/blob/main/assets/iKx7a.jpg" align="right" width="140px" height="auto"/>
